@@ -1,5 +1,3 @@
-Requirements:
- Python 3.x
- Streamlit
- Pandas
- NumPy
+streamlit==1.8.0
+pandas==1.3.0
+numpy==1.21.0
