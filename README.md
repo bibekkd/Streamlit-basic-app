@@ -24,7 +24,7 @@ This app provides insights into Uber pickups in NYC. It includes the following f
 3. Run the Streamlit app by executing:
 
    ```bash
-   streamlit run app.py
+   streamlit run uber_pickups.py
     
 5. Interact with the app using the provided controls.
 
